@@ -1,4 +1,4 @@
-const apiUrl = 'http://localhost:5000'; // Base URL for the API
+const apiUrl = 'https://capstone-3mtt.onrender.com'; // Base URL for the API
 
 // Generic GET request
 async function getData(endpoint, token = '') {
